@@ -9,6 +9,7 @@ Issues -
     * Non-standard language in articles refering to patient counts increases complexity of extratcing patient counts form text  - for example "Massachusetts General Hospital officials said the number of patients suspected to have COVID-19 in their emergency room or in beds had quadrupled to 53 between Monday and Tuesday, in addition to three other confirmed cases in intensive care and three in regular beds."
 * County level counts are not being reported by some states - including Vermont, West Virgina, Rhode Island
 * Right now the Overflow Risk is not factoring in the number of beds being taken up by non-COVID19 patients - I'll have to do some more research into the proportion of open beds versus total beds in a hospital at any given time to compensate for this in future
+* Next steps will also include calculating an ICU Overflow Rate based on the number of ICU beds per hospital
 
 ![Image of Map](https://github.com/chris-kirkup/COVID_Overflow/blob/master/Screen%20Shot%202020-03-20%20at%201.55.27%20PM.png)
 
