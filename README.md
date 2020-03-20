@@ -1,6 +1,8 @@
 # COVID_Overflow
 
 
+![Image of Map](https://github.com/chris-kirkup/COVID_Overflow/blob/master/Screen%20Shot%202020-03-20%20at%201.55.27%20PM.png)
+
 Map : https://drive.google.com/open?id=1Z1LNNhKqQNftvuzhYAvAM8pH_JFKnpjA&usp=sharing
 
 
